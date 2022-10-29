@@ -20,3 +20,15 @@ int main(){
         cout << "\n";
     }
 }
+
+/*
+
+    A    
+   ABA
+  ABCBA
+ ABCDCBA
+ABCDEDCBA
+
+
+
+*/
