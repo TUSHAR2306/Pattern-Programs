@@ -20,3 +20,14 @@ int main(){
     }
 
 }
+
+/*
+
+E
+DE
+CDE
+BCDE
+ABCDE
+
+
+*/

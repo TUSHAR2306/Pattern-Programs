@@ -18,3 +18,15 @@ int main(){
         cout << "\n";
     }
 }
+
+/*
+
+ABCDE
+ABCD
+ABC
+AB
+A
+
+
+
+*/
